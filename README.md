@@ -60,6 +60,16 @@ Backup completed successfully.
 
 ---
 
+Make It Executable
+
+Before running the script, don’t forget to give it execute permission:
+
+```bash
+chmod +x zerolost.sh
+```
+
+---
+
 ## Why "ZeroLost"?
 
 ```
@@ -73,3 +83,4 @@ Because you deserve zero loss.
 ## Creator
 
 ricoaprillananda 🍃
+
