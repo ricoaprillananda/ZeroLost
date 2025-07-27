@@ -60,7 +60,7 @@ Backup completed successfully.
 
 ---
 
-Make It Executable
+## Make It Executable
 
 Before running the script, don’t forget to give it execute permission:
 
