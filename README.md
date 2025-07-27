@@ -1,4 +1,11 @@
 # 🪽🎶 ZeroLost
+
+![bash](https://img.shields.io/badge/script-Bash-blue)
+![version](https://img.shields.io/badge/version-1.0.0-brightgreen)
+![license](https://img.shields.io/github/license/ricoaprillananda/ZeroLost)
+
+> VERSION="1.0.0"
+
 A minimalist yet powerful Bash script to automate backups of any directory or project. Designed with simplicity, modularity, and real-world reliability in mind — this script compresses, timestamps, and stores your backups like a pro. Ideal for sysadmins, DevOps engineers, or anyone who values digital memory.
 
 ---
@@ -70,6 +77,17 @@ chmod +x zerolost.sh
 
 ---
 
+## Versioning & GitHub Tagging
+
+To tag the current version for release:
+
+```bash
+git tag v1.0.0
+git push origin v1.0.0
+```
+
+---
+
 ## Why "ZeroLost"?
 
 ```
@@ -82,5 +100,5 @@ Because you deserve zero loss.
 
 ## Creator
 
-ricoaprillananda 🍃
+🐢🍃 ricoaprillananda 
 
